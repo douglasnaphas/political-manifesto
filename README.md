@@ -16,6 +16,8 @@ For example, legislate that 15% of the spots on a street should be available whe
 We could do something similar for unconditional income. We could set the desired number of persons receiving no or minimal income outside of the UBI to 20%. If too many people are only receiving UBI, it's too generous, so it would shrink to get people back to work. If too few are on UBI, it's not enough for people to live decently on, so it would increase, both effects taking place without specific legislative action.
 
 This controls against either everyone living off of UBI and standards of living declining from lack of work, and against the UBI becoming ineffective as a safety net.
+
+It guards against everyone throughout the nation ceasing work without imposing onerous requirements on individuals, forcing them to prove that they deserve a check.
 #### Phase-in
 #### No minimum wage
 Society is responsible for everyone's basic needs. People who buy labor are only responsible to pay its marginal product. We leave work undone when whoever hires it has to underwrite the survival of whoever does it.
