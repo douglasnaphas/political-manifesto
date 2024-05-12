@@ -5,6 +5,8 @@ I support the following political programs.
 ### Advantages
 #### Optimizes for career change
 The ability to take a few years off when your field contracts reduces people's incentive to struggle against economic change.
+
+Career change may also be more necessary when technology and economic change is fast, as is the trend.
 #### Diffuses equity ownership
 With prospective employees not in need of a constant stream of cash, founders could rally workers to early stage enterprises with equity. Over time, this could lead to capital ownership shifting to workers.
 ### Implementation
